@@ -32,13 +32,6 @@ AI/ML Developer based in Milan 🇮🇹 — I build LLM-powered applications, RA
 
 ---
 
-📊 GitHub Stats
-
-![GopiKrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gopikrishna1547&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gopikrishna1547&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopi-krishna-8)
