@@ -12,6 +12,10 @@ AI/ML Developer based in Milan 🇮🇹 — I build LLM-powered applications, RA
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=flat&logo=databricks&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
@@ -35,10 +39,10 @@ AI/ML Developer based in Milan 🇮🇹 — I build LLM-powered applications, RA
 
 ---
 
-Connect with me
+📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopi-krishna-8)
 
 ---
 
-Always building. Always learning. 🤖
+Always building. Always learning.🤖
