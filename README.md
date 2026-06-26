@@ -1,6 +1,6 @@
 Hi, I'm GopiKrishna 👋
 
-AI/ML Developer based in Milan 🇮🇹 — I build LLM-powered applications, RAG systems, and AI agents that turn research into real-world tools.
+AI/ML Developer based in Milan — I build LLM-powered applications, RAG systems, and AI agents that turn research into real-world tools.
 
 ---
 
@@ -32,10 +32,10 @@ AI/ML Developer based in Milan 🇮🇹 — I build LLM-powered applications, RA
 
 ---
 
-📫 Connect with me
+Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopi-krishna-8)
 
 ---
 
-Always building. Always learning.🤖
+Always building. Always learning.
